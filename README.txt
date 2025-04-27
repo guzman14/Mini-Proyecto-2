@@ -47,3 +47,6 @@ Conecta tu Arduino a tu computadora mediante el cable USB.
 
 Carga el código de Arduino en tu placa Arduino utilizando el Arduino IDE.
 
+
+VIDEO EXPLICATIVO DEL PROYECTO: https://youtu.be/f6WVYAnsxqQ
+
