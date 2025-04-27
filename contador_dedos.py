@@ -4,7 +4,7 @@ import serial
 import time
 
 # Configurar el puerto serial (ajusta el puerto, por ejemplo: COM3 o /dev/ttyUSB0)
-arduino = serial.Serial('COM3', 9600)
+arduino = serial.Serial('COM5', 9600)
 time.sleep(2)  # Esperar que el Arduino inicie
 
 # Inicializar MediaPipe
